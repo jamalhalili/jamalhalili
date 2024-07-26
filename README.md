@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jamal Halili
+- 👀 I’m an undergrad student interested in computational biology and bioinformatics
+- 🌱 I’m currently learning Python for computational biology
+- 😄 Pronouns: he/him
+- 📫 How to reach me: www.linkedin.com/in/jamalhalili/ 
